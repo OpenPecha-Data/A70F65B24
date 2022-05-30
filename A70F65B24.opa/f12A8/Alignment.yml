@@ -1,0 +1,19 @@
+segment_sources:
+  I984999A9:
+    type: origin_type
+    relation: translation
+    language: en
+  I77722755:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7f9b5a98848d4bf38a8072e770f3282b:
+    I984999A9: 92574f1a2b474655b5a9fb99ca9db439
+    I77722755: 27563e48190940f18096e59d81f85ed6
+  123c109348c44d7eb2c4d608ac0a13f0:
+    I984999A9: caf9fbcb7e29473e9bab06606c57039e
+    I77722755: 012db6c4b03349bfa35c3fb60a685932
+  9d3803223ce648ddbdf5a54643682cd3:
+    I984999A9: c207b8c6736a4a5b9bd1e364af09e6e9
+    I77722755: 3de35d857eec4a6191b834e83e4ea7d6
